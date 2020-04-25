@@ -15,11 +15,13 @@ img {
 }
 @font-face {
     font-family: txt;
+    font-display: swap;
     src: local(FiraSans-light),
         url(../tipos/FiraSans-Light.woff2);
 }
 @font-face {
     font-family: title;
+    font-display: swap;
     src: local(Anton-Regular),
         url(../tipos/Anton-Regular.woff2);
 }
